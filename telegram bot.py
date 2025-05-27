@@ -80,4 +80,5 @@ if __name__ == '__main__' :
 
 #after coding you must restart your bot
 # if you want add your bot in the group you must first admin it and tag it in the chat 
+#and then you need to choose /setcomands for set your commands (in commands section in your code)
 #example = @your bot name (your chat)
